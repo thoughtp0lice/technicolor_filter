@@ -233,4 +233,4 @@ class Technicolor:
         @key_level when set to 0 means no key
         when set to 1.0 means a full layer of key is added 
         """
-        self._key = key_level
+        self._key_level = key_level
