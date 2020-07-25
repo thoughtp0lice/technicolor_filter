@@ -1,6 +1,6 @@
 # Technicolor Filter
 
-Technicolor is a series of color motion picture processes, the first version dating to 1916,[1] and followed by improved versions over several decades. Classic films like *The Wizard of Oz*, *Gone with the Wind*, and *Snow White and the Seven Dwarfs* are all made with technicolor. Technicolor uses comibination of cyan, magenta, and yellow to create colors and filmmakers can use different variations of the tree colors to produce different images. This package try to recreate that process and allows you to use differen shades of cyan, magenta, and yellow to edit your own picture.
+Technicolor is a series of color motion picture processes, the first version dating to 1916, and followed by improved versions over several decades. Classic films like *The Wizard of Oz*, *Gone with the Wind*, and *Snow White and the Seven Dwarfs* are all made with technicolor. Technicolor uses comibination of cyan, magenta, and yellow to create colors and filmmakers can use different variations of the tree colors to produce different images. This package try to recreate that process and allows you to use differen shades of cyan, magenta, and yellow to edit your own picture.
 
 To learn more about technicolor: [Technicolor Wikipedia Page](https://en.wikipedia.org/wiki/Technicolor), [Video by Vox](https://www.youtube.com/watch?v=Mqaobr6w6_I&t=517s)
 
