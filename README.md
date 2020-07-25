@@ -10,7 +10,7 @@ Python3 and numpy is required
 To install, run the following command
 
 ``` bash
-git clone
+git clone git@github.com:thoughtp0lice/technicolor_filter.git
 cd technicolor_filter
 pip3 install .
 ```
