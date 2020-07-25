@@ -6,7 +6,8 @@ To learn more about technicolor: [Technicolor Wikipedia Page](https://en.wikiped
 
 ## Installation
 
-Python3 and numpy is required
+Python3 and numpy is required.
+
 To install, run the following command
 
 ``` bash
