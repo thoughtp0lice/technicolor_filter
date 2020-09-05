@@ -27,6 +27,12 @@ img.set_all_color(['Process cyan', 'Process magenta', 'Process yellow'])
 img.show()
 ```
 
+Here is an example to run this module in command line to edit `example/person.jpg` with Process cyan, Process magenta, and Process yellow and store the processed image in  `./techni_person.jpg`
+
+```bash
+python -m technicolor_filter --in_filename 'example_pics/person.jpg' --cyan 'Process cyan' --magenta 'Process magenta' --yellow 'Process yellow' --out_filename './techni_person.jpg'
+```
+
 ## Example
 
 Here is some pictures made from technicolor_filter

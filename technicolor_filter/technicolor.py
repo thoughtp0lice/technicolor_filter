@@ -228,7 +228,7 @@ class Technicolor:
         out = Image.fromarray(out_image.astype(np.uint8), "RGB")
         out.save(filename, format=save_format)
 
-    def set_key_level(self, key_level=0.5):
+    def set_key_level(self, key_level):
         """
         @key_level when set to 0 means no key
         when set to 1.0 means a full layer of key is added 

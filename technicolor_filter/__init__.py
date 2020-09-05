@@ -8,8 +8,7 @@ def read_image(img):
     read image stored at @img
     returns a Technicolor object
     """
-    if isinstance(img, str):
-        out = Image.open(img)
+    out = Image.open(img)
     return Technicolor(out)
 
 
